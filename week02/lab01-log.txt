@@ -1,0 +1,61 @@
+    1  coding cafe
+    2  Codingcafe/
+    3  CodingCafe
+    4  week1/
+    5  Week1/
+    6  cd
+    7  cd documents
+    8  cd /mnt/c/Users/advit/Documents
+    9  ls
+   10  cd CodingCafe
+   11  ni.README.md
+   12  week2
+   13  clear
+   14  pwd
+   15  ls
+   16  ls -Force
+   17  ls codingcafe/
+   18  ls CodingCafe
+   19  CodingCafe/
+   20  ni Readme.md
+   21  pwd
+   22  ls
+   23  ls -a
+   24  ls -l
+   25  cd ~
+   26  mkdir coding-cafe
+   27  cd coding-cafe
+   28  mkdir week01
+   29  mkdir week02
+   30  touch week02/notes.md
+   31  touch README.md
+   32  ls coding-cafe/week02
+   33  cd ~
+   34  cp README.md README-backup.md 
+   35  cd coding-cafe
+   36  cp README.md README-backup.md
+   37  mv README-backup.md week01/
+   38  cd week01
+   39  mv README-backup.md old-readme.md
+   40  ls
+   41  rm old-readme.md
+   42  echo $PATH
+   43  which python3
+   44  which pip
+   45  which ls
+   46  sudo apt install python3.14-venv
+   47  sudo apt update
+   48  sudo apt install python3-venv
+   49  cd ~/coding-cafe
+   50  python3 -m venv .venv
+   51  ls
+   52  ls -a
+   53  source .venv/bin/activate
+   54  pip list
+   55  pip install requests
+   56  pip list
+   57  deactivate
+   58  man ls
+   59  man man
+   60  python3
+   61  history > week02/lab01-log.txt
